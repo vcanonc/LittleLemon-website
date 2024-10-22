@@ -3,6 +3,9 @@
 This is a fictional web application project for a restaurant developed in Django. The application allows managing a menu of dishes and making reservations for bookings.
 
 
+![Main page of website](repo_images/littlelemon_index.png)
+
+
 ## Features
 
 - **Menu Management**: Allows adding, editing, and deleting dishes from the menu.
